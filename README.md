@@ -1,11 +1,11 @@
-**Data Science student** at Fundação Getúlio Vargas and IT Technician by Instituto Federal Catarinense.
-Now I'm working on a discord bot
+**Data Science student** at Fundação Getúlio Vargas and IT Technician by Instituto Federal Catarinense. <br>
+My current projects are a <a href="https://github.com/GDevigili/rotom-bot-discord">discord bot</a> and some cheat sheets
 
 ### 💻 Languages:
-`print("Python3")`, <br>
-`<p style="CSS3"> HTML5 </p>`, <br>
-`echo "PHP";`, <br>
-`SELECT "MySQL", "PostgreSQL", "SQLite" FROM SQL`
+```print("Python3")```, <br>
+```<p style="CSS3"> HTML5 </p>```, <br>
+```echo "PHP";```, <br>
+```SELECT "MySQL", "PostgreSQL", "SQLite" FROM SQL```
 ```
 public class GDevigili{
   public static void main (String [] args){
@@ -13,27 +13,10 @@ public class GDevigili{
   }
 }
 ```
-I also used a little bit of JavaScript, R and Lua in some projects
+I also used a little bit of JavaScript, R and Lua in some projects.
 
-### 📫 Find Me:
+### 📫 Find me at:
 LinkedIn: https://www.linkedin.com/in/gianluccadevigili/ <br>
 E-mail: gianluccadevigili@gmail.com or gianlucca.devigili@fgv.edu.br <br>
-Instagram: @gdevigili <br>
+Instagram: <a href="https://www.instagram.com/gdevigili/">@gdevigili</a> <br>
 Discord: Giraffes are Fake#5632
-
-
-<!--
-**GDevigili/GDevigili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
