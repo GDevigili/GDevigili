@@ -17,10 +17,11 @@ public class GDevigili{
   }
 }
 ```
-I also used a little bit of JavaScript, R and Lua in some projects.
+I also used a little bit of R, JavaScript and Lua in some projects.
 
 ### 📫 Find me at:
-LinkedIn: https://www.linkedin.com/in/gianluccadevigili/ <br>
-E-mail: gianluccadevigili@gmail.com or gianlucca.devigili@fgv.edu.br <br>
-Instagram: <a href="https://www.instagram.com/gdevigili/">@gdevigili</a> <br>
-Discord: Giraffes are Fake#5632
+LinkedIn: https://www.linkedin.com/in/gianluccadevigili/ 
+<br>E-mail: gianluccadevigili@gmail.com or gianlucca.devigili@fgv.edu.br 
+<br>Instagram: <a href="https://www.instagram.com/gdevigili/">@gdevigili</a> 
+<br>Discord: Giraffes are Fake#5632 
+<br>My Lates CV: http://lattes.cnpq.br/5414892151933764
