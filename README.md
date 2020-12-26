@@ -2,10 +2,14 @@
 My current projects are a <a href="https://github.com/GDevigili/rotom-bot-discord">discord bot</a> and some cheat sheets
 
 ### 💻 Languages:
-```print("Python3")```, <br>
-```<p style="CSS3"> HTML5 </p>```, <br>
-```echo "PHP";```, <br>
+```print("Python3")```
+
+```<p style="CSS3"> HTML5 </p>```
+
+```echo "PHP";```
+
 ```SELECT "MySQL", "PostgreSQL", "SQLite" FROM SQL```
+
 ```
 public class GDevigili{
   public static void main (String [] args){
