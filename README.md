@@ -11,11 +11,7 @@ My current projects are a <a href="https://github.com/GDevigili/rotom-bot-discor
 ```SELECT "MySQL", "PostgreSQL", "SQLite" FROM SQL```
 
 ```
-public class GDevigili{
-  public static void main (String [] args){
-    System.out.print("Java");
-  }
-}
+System.out.print("Java"); //The life is to short to write the whole Java Code
 ```
 I also used a little bit of R, JavaScript and Lua in some projects.
 
